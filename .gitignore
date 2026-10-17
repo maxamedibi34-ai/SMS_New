@@ -1,0 +1,7 @@
+.cache/
+node_modules/
+.env
+uploads/*
+!uploads/.htaccess
+/config/config.php
+.env
